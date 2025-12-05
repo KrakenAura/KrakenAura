@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am <strong>Abdul Karim</strong><br>Web Developer from Indonesia<br><br>🌱 Currently learning React.js<br>⚡ Working on personal projects<br>🔭 Open to new opportunities<br>📫 Feel free to contact me at akarim18641@gmail.com<br><br>🌐 Learn more about me at https://krakenaura.github.io/
+<h2>Hi, I am <strong>Abdul Karim</strong></h2>h2><br><h2>Web Developer from Indonesia</h2>h2><br><br>🌱 Currently learning React.js<br>⚡ Working on personal projects<br>🔭 Open to new opportunities<br>📫 Feel free to contact me at akarim18641@gmail.com<br><br>🌐 Learn more about me at https://krakenaura.github.io/
 
 
 ## 🌐 Socials:
